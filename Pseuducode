@@ -1,0 +1,25 @@
+Pseudocode
+
+Mulai
+    Tampilkan "Daftar Film yang Tayang"
+    Pilih film yang ingin ditonton
+    
+    Tampilkan "Jadwal Tayang"
+    Pilih jadwal tayang yang diinginkan
+    
+    Input jumlah tiket yang ingin dipesan
+    Hitung total biaya = jumlah_tiket * harga_per_tiket
+    
+    Tampilkan "Total Biaya" 
+    Tanyakan apakah ingin mengurutkan film atau mencari film
+    
+    Jika memilih untuk mengurutkan:
+        Tampilkan "Film yang Diurutkan Berdasarkan Rating"
+        Urutkan film berdasarkan rating
+    
+    Jika memilih untuk mencari film:
+        Input nama film
+        Cari film berdasarkan nama
+        Jika film ditemukan, tampilkan hasilnya
+        Jika film tidak ditemukan, tampilkan "Film Tidak Ditemukan"
+    Akhiri
